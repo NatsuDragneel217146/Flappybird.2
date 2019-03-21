@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "FlappyBird",
+"dataUrl": "plz help.data.unityweb",
+"wasmCodeUrl": "plz help.wasm.code.unityweb",
+"wasmFrameworkUrl": "plz help.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
